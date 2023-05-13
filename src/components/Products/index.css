@@ -1,0 +1,19 @@
+.product-container {
+  width: 100%;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.product-image {
+  height: 200px;
+  width: 200px;
+}
+.product-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 28px;
+  color: #475569;
+}
